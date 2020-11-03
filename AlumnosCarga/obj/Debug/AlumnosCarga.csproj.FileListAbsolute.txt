@@ -1,0 +1,68 @@
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\bin\Debug\AlumnosCarga.exe.config
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\bin\Debug\AlumnosCarga.exe
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\bin\Debug\AlumnosCarga.pdb
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.csprojAssemblyReference.cache
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.Properties.Resources.resources
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.GenerateResource.cache
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.CoreCompileInputs.cache
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.exe
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.pdb
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.frmFormulario.resources
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\bin\Debug\FontAwesome.Sharp.dll
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.CopyComplete
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.frmDocentes.resources
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.frmCuotas.resources
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.frmMaterias.resources
+F:\prog c sharp\AlumnosCarga\AlumnosCarga\obj\Debug\AlumnosCarga.frmAlumnos.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\AlumnosCarga.exe.config
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\AlumnosCarga.exe
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\AlumnosCarga.pdb
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\FontAwesome.Sharp.dll
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csprojAssemblyReference.cache
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.frmFormulario.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Properties.Resources.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.GenerateResource.cache
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.CoreCompileInputs.cache
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.CopyComplete
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.exe
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.pdb
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Consultas.frmConsulta2.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.frmConsulta1.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Consultas.frmConsulta3.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Info.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista1.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista2.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista3.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista4.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista5.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista6.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista7.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista8.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista9.resources
+F:\prog c sharp\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista_10.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\AlumnosCarga.exe.config
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\AlumnosCarga.exe
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\AlumnosCarga.pdb
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.frmConsulta1.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Consultas.frmConsulta2.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Consultas.frmConsulta3.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.frmFormulario.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Info.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista1.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista2.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista3.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista4.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista5.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista6.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista7.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista8.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista9.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Listas.frmLista_10.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.Properties.Resources.resources
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.csproj.CopyComplete
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.exe
+C:\Users\usuario\Desktop\T.U.P\Segundo Cuatrimestre\Laboratorio Computacion II\Trabajo practico\POSTA\AlumnosCarga Ejercicio\AlumnosCarga\obj\Debug\AlumnosCarga.pdb
